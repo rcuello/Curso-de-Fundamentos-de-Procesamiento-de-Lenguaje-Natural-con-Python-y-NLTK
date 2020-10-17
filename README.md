@@ -16,7 +16,7 @@ NPL es importante por que es el camino hacia el ideal de lo que entendemos hoy e
 
 Alan Turing especifica en su articulo "Computing Machinery and Intelligence" publicado en la revista Mind en 1950 el "Test de Turing" , esto fue el primer indicio de que el lenguaje es la medida de inteligencia de un algoritmo o una interfaz de procesamiento.
 
-![image-turing](image\test-de-turing.png)
+![image-turing](blob\main\image\test-de-turing.png)
 
 **Usos actuales del NLP**
 1. Maquinas de búsqueda
